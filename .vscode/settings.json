@@ -1,0 +1,8 @@
+{
+    "restructuredtext.confPath": "",
+    "python.pythonPath": "${workspaceFolder}\\env\\Scripts\\python.exe",
+    "python.globalModuleInstallation": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+
+}

@@ -1,0 +1,10 @@
+*.swp
+*.pyc
+env/
+__pycache__/
+pyenergir.egg-info/
+dist/
+htmlcov/
+.pytest_cache/
+.tox/
+.coverage*
